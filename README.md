@@ -1,1 +1,1 @@
-<h1 class="text-center">Kitaplık Yönetimi Ödevi</h1>
+<h1>Kitaplık Yönetimi Ödevi</h1>
